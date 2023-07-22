@@ -26,10 +26,6 @@ Back-end: Node.js, Express.js, MongoDB,SQL, MySql, JDBC
 Tools: Git, VS Code, IntelliJ IDEA
 
 
-Projects
-
-projects are comming
-
 Get in Touch👇🏼
 
 📧 Email: rishabhy461@gmail.com
